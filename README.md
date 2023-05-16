@@ -1,2 +1,2 @@
-# Encadeamento-de-Nó
+# Encadeamento de Nó
  Implementando o conceito de encadeamento de nó.
